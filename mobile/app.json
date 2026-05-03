@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Quest Engine",
+    "slug": "quest-engine",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "questengine",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.hugoadriano.questengine"
+    },
+    "android": {
+      "package": "com.hugoadriano.questengine"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store"
+    ],
+    "extra": {
+      "apiUrl": "http://10.0.2.2:8080"
+    }
+  }
+}
