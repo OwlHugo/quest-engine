@@ -1,0 +1,9 @@
+.env
+.env.*
+bin/
+coverage.out
+*.test
+.git
+docker-compose.yml
+README.md
+internal/e2e/
