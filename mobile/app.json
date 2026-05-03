@@ -18,7 +18,14 @@
       "expo-secure-store"
     ],
     "extra": {
-      "apiUrl": "https://quest-engine.fly.dev"
-    }
+      "apiUrl": "https://quest-engine.fly.dev",
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d408b412-fc81-424f-a656-44389f195c01"
+      }
+    },
+    "owner": "hugobr584"
   }
 }
